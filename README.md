@@ -1,9 +1,12 @@
 ![Alt text](images/Chuetter_img07_300dpi.png)
 
 
-# Course in Network Science 
+# Course in Network Science - online material
 
-**This course is based on the online material from
+This repo contains jupyter notebooks mainly and datasets to support 
+the course 'Introduction to complex network analysis' by Prof. Jörg Menche
+
+the content based on the online material from
 https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/
 
 by 
