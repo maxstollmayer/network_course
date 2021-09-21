@@ -1,16 +1,12 @@
-[![Untangling Network Science](http://img.youtube.com/vi/GZJgPiuQgcw/hqdefault.jpg)](http://www.youtube.com/watch?v=GZJgPiuQgcw "Untangling Network Science")
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
-# A First Course in Network Science
 
-**Edition:** 1
+# Course in Network Science 
 
-**Publication year:** 2020
+**This course is based on the online material from
+https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/
 
-**ISBN:** 9781108471138
-
-**Buy:** [Amazon](https://www.amazon.com/First-Course-Network-Science/dp/1108471137/) | [Cambridge University Press](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)
-
-## Authors
+by 
 
 * [Filippo Menczer](https://about.me/fil.m), Indiana University, Bloomington
 * [Santo Fortunato](https://sites.google.com/view/santofortunato/), Indiana University, Bloomington
