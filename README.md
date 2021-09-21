@@ -4,7 +4,9 @@
 # Course in Network Science - online material
 
 This repo contains jupyter notebooks mainly and datasets to support 
-the course 'Introduction to complex network analysis' by Prof. Jörg Menche
+the course 
+## 'Introduction to complex network analysis' 
+by Prof. Jörg Menche assisted by Dr. Felix Müller from the University of Vienna 
 
 the content based on the online material from
 https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/
