@@ -1,4 +1,4 @@
-![Alt text](Chuetter_img07_300dpi.png?raw=true "Title")
+![Alt text](images/Chuetter_img07_300dpi.png)
 
 
 # Course in Network Science 
