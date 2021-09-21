@@ -1,6 +1,7 @@
 [![Untangling Network Science](http://img.youtube.com/vi/GZJgPiuQgcw/hqdefault.jpg)](http://www.youtube.com/watch?v=GZJgPiuQgcw "Untangling Network Science")
 
 I have changed simethoing
+I made a 2nd change
 # A First Course in Network Science
 
 **Edition:** 1
