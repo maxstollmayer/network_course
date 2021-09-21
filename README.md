@@ -1,4 +1,4 @@
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](Chuetter_img07_300dpi?raw=true "Title")
 
 
 # Course in Network Science 
