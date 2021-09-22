@@ -41,7 +41,8 @@ There will be changes in the main branch by us on a regular basis. Make sure tha
 > git pull origin main
 > git push origin --branchname--
 
-
+These two commands should be run as soon as you have aranged your git branch in order to get all files into your peronalized branch.
+  
 To make sure that your personal notebooks doesn't get replaced rename them after you have received the files from the main branch (e.g. Tutorial1.ipynb into Tutorial1_JohnnyDepp.ipynb) 
 
 ## Additional Datasets 
