@@ -41,18 +41,9 @@ There will be changes in the main branch by us on a regular basis. Make sure tha
 > git pull origin main
 > git push origin --branchname--
 
+
 To make sure that your personal notebooks doesn't get replaced rename them after you have received the files from the main branch (e.g. Tutorial1.ipynb into Tutorial1_JohnnyDepp.ipynb) 
 
-## Additional Resources 
+## Additional Datasets 
 
-* [Dataset files](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/datasets)
-
-* [Solutions to selected exercises](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/Selected_Exercise_Solutions.pdf) (solutions to **all** exercises can be found on the [textbook website for registered instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
-
-* [Sample slides](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/tree/master/sample/slides) (lecture slide decks for **all** chapters can be found on the [textbook website for registered instructors](https://www.cambridge.org/academic/subjects/physics/statistical-physics/first-course-network-science#resources))
-
-* [Errata](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/issues) (submit an issue to flag errors in the book)
-
-Note: To access the resources on the CUP textbook website for instructors, one has to request an instructor account by registering and verifying their faculty status.
-=======
-# network_course
+* [Dataset files](https://github.com/menchelab/network_course/tree/main/datasets)
