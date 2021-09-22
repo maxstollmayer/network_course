@@ -33,11 +33,11 @@ The name of your branch should be a identifiable shortcut of your name. You can 
 
 Now you can upload your modified notebook to your branch with
 
-> git add --yourfile--
+> git add --yourfile--  
 
-> git commit -m "yourmessage"
+> git commit -m "yourmessage"  
 
-> git push origin --branchname--
+> git push origin --branchname--  
 
 There will be changes in the main branch by us on a regular basis. Make sure that you have the latest version of the current notebooks by downloading them to your local machine:
 
