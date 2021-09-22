@@ -9,6 +9,7 @@ the course
 by Prof. Jörg Menche assisted by Dr. Felix Müller from the University of Vienna. 
 
 The content is based on the online material from
+
 https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/
 
 
