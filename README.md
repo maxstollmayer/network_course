@@ -24,6 +24,10 @@ Make a folder on your machine and clone this repo into it by cd into your folder
 
 > git clone git@github.com:menchelab/network_course.git
 
+(alternative option: > git clone https://github.com/menchelab/network_course.git)
+
+and update on a weekly basis with
+
 There will be changes in the main branch by us on a regular basis. Make sure that you have the latest version of the current notebooks by downloading them to your local machine:
 
 > git pull origin main
